@@ -1,0 +1,16 @@
+2020-05-13 16:54:47.085 +02:00 [Error] Unable to connect to the database
+System.Data.SqlClient.SqlException (0x80131904): Login failed for user 'sa1'.
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at LinqToDB.Async.AsyncDbConnection.Open()
+   at LinqToDB.Data.DataConnection.EnsureConnection()
+   at LinqToDB.Data.DataConnection.get_Connection()
+   at Sello.Core.Database.Settings.DatabaseStartup.CheckDbConnection() in D:\Github\.Net\Sello\Sello.Core\Database\Settings\DatabaseStartup.cs:line 37
+ClientConnectionId:4ddb06f4-f4ac-493c-b9aa-e57d70515686
+Error Number:18456,State:1,Class:14
+2020-05-13 16:54:47.271 +02:00 [Error] Unable to connect to the database
