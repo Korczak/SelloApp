@@ -1,0 +1,2 @@
+https://momtobe.pl/wp-json/wc/store/products?per_page=100
+https://momtobe.pl/wp-json/wc/store
