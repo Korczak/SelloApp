@@ -1,0 +1,186 @@
+2020-11-19 09:06:32.453 +01:00 [Information] Program do eksportowania danych
+2020-11-19 09:07:37.621 +01:00 [Information] Pobieranie danych ze sklepu zostalo rozpoczete
+2020-11-19 09:07:47.122 +01:00 [Information] Aktywne filtry 
+2020-11-19 09:07:47.124 +01:00 [Information] Ilosc produktow: 2782
+2020-11-19 09:07:47.125 +01:00 [Information] Aktywne filtry donna
+2020-11-19 09:07:47.130 +01:00 [Information] Ilosc produktow do dodania lub zaaktualizowania: 83
+2020-11-19 09:07:47.131 +01:00 [Information] Produkty do filtrowania: 
+	y-dodaj
+	n-nie dodawaj
+	h - dodaj wszystkie pozostale
+	j - zakoncz dodawanie, pozostale produkty nie zostana dodane
+2020-11-19 09:07:48.932 +01:00 [Information] Czy chcesz dodac produkt: 
+KOSZULA DAMSKA DIANA SALE DONNA
+
+Ten produkt spowoduje dodanie 0 rekordow do bazy oraz zaaktualizuje informacje o 21 rekordach.
+2020-11-19 09:07:51.671 +01:00 [Information] Czy chcesz dodac produkt: 
+KOSZULA DAMSKA PARIS SALE DONNA
+
+Ten produkt spowoduje dodanie 0 rekordow do bazy oraz zaaktualizuje informacje o 7 rekordach.
+2020-11-19 09:07:53.110 +01:00 [Information] Czy chcesz dodac produkt: 
+KOSZULA DAMSKA TAYLOR SALE DONNA
+
+Ten produkt spowoduje dodanie 0 rekordow do bazy oraz zaaktualizuje informacje o 21 rekordach.
+2020-11-19 09:07:54.381 +01:00 [Information] Czy chcesz dodac produkt: 
+KOSZULA DAMSKA NAOMI DONNA
+
+Ten produkt spowoduje dodanie 0 rekordow do bazy oraz zaaktualizuje informacje o 7 rekordach.
+2020-11-19 09:07:55.712 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA AURA DONNA
+2020-11-19 09:07:55.803 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA GLORIA DONNA
+2020-11-19 09:07:55.897 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA HANA DONNA
+2020-11-19 09:07:55.972 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA VALENTINE DONNA
+2020-11-19 09:07:56.039 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA BRIGITTE DONNA
+2020-11-19 09:07:56.105 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA ROMINA DONNA
+2020-11-19 09:07:56.198 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA KASIYA DONNA
+2020-11-19 09:07:56.277 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA TESS PLUS SIZE DONNA
+2020-11-19 09:07:56.332 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA JENNY DONNA
+2020-11-19 09:07:56.365 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA IVANA DONNA
+2020-11-19 09:07:56.648 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA DAFNE DONNA
+2020-11-19 09:07:56.721 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA NINA PLUS DONNA
+2020-11-19 09:07:56.755 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA MERY SALE DONNA
+2020-11-19 09:07:56.993 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA STELLA II DONNA
+2020-11-19 09:07:57.057 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA JASMINE II DONNA
+2020-11-19 09:07:57.125 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA NADIA DONNA
+2020-11-19 09:07:57.220 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA LAILA SALE DONNA
+2020-11-19 09:07:57.293 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA CARMEN SALE DONNA
+2020-11-19 09:07:57.335 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA KRISTINA DONNA
+2020-11-19 09:07:57.413 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA SALLY SALE DONNA
+2020-11-19 09:07:57.620 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA KYLIE DONNA
+2020-11-19 09:07:57.687 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA ROXANA SALE DONNA
+2020-11-19 09:07:57.746 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA VENUS DONNA
+2020-11-19 09:07:57.817 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA AISHA DONNA
+2020-11-19 09:07:57.882 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA JANETTE SALE DONNA
+2020-11-19 09:07:57.921 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA DENIS SALE DONNA
+2020-11-19 09:07:57.953 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA IRIS DONNA
+2020-11-19 09:07:57.999 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA KAREN DONNA
+2020-11-19 09:07:58.077 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA RITA DONNA
+2020-11-19 09:07:58.123 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA SYLVIA DONNA
+2020-11-19 09:07:58.193 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA LARISA DONNA
+2020-11-19 09:07:58.239 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA STELLA DONNA
+2020-11-19 09:07:58.795 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA SOFIA DONNA
+2020-11-19 09:07:58.975 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA IRINA DONNA
+2020-11-19 09:07:59.073 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA GLORIA II DONNA
+2020-11-19 09:07:59.130 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA LILY PUSH-UP DONNA
+2020-11-19 09:07:59.212 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA MEGAN DONNA
+2020-11-19 09:07:59.275 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA CHANTAL DONNA
+2020-11-19 09:07:59.340 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA ROSA DONNA
+2020-11-19 09:07:59.417 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA ANYA DONNA
+2020-11-19 09:07:59.523 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA LUCIA PLUS DONNA
+2020-11-19 09:07:59.576 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA BRIGITTE II DONNA
+2020-11-19 09:07:59.623 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA JASMINE DONNA
+2020-11-19 09:07:59.707 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA FLAVIA DONNA
+2020-11-19 09:07:59.783 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA SIMONE DONNA
+2020-11-19 09:08:00.722 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA EVA DONNA
+2020-11-19 09:08:00.807 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA BETTY DONNA
+2020-11-19 09:08:00.898 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA ELENI DONNA
+2020-11-19 09:08:00.994 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA PAMELA DONNA
+2020-11-19 09:08:01.227 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA KASIYA II DONNA
+2020-11-19 09:08:01.294 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA KATIE 02 DONNA
+2020-11-19 09:08:01.332 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA KATIE 03 DONNA
+2020-11-19 09:08:01.370 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA KATIE 01 DONNA
+2020-11-19 09:08:01.407 +01:00 [Information] Dodano: 
+KOSZULA AGNES DONNA
+2020-11-19 09:08:01.451 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA SELMA PLUS DONNA
+2020-11-19 09:08:01.481 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA SELMA DONNA
+2020-11-19 09:08:01.517 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA ASHLEY DONNA
+2020-11-19 09:08:01.586 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA PATRIZIA PLUS DONNA
+2020-11-19 09:08:01.622 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA PATRIZIA DONNA
+2020-11-19 09:08:01.676 +01:00 [Information] Dodano: 
+KOSZULA DAMSKA LULU DONNA
+2020-11-19 09:08:01.722 +01:00 [Information] Dodano: 
+PIŻAMA AGNES 1/2 DONNA
+2020-11-19 09:08:01.811 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA LENA DONNA
+2020-11-19 09:08:01.883 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA DOROTHY SALE DONNA
+2020-11-19 09:08:02.006 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA BONNIE DONNA
+2020-11-19 09:08:02.041 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA ANYA 1/2 DONNA
+2020-11-19 09:08:02.124 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA EVA 1/2 DONNA
+2020-11-19 09:08:02.185 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA KATIE 1/2 03 DONNA
+2020-11-19 09:08:02.212 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA JENNY 1/2 DONNA
+2020-11-19 09:08:02.238 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA SELMA 1/2 DONNA
+2020-11-19 09:08:02.272 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA BONNIE 1/2 DONNA
+2020-11-19 09:08:02.298 +01:00 [Information] Dodano: 
+PIŻAMA DONATELLA DONNA
+2020-11-19 09:08:02.367 +01:00 [Information] Dodano: 
+PIŻAMA DAMSKA ESTER 1/2 DONNA
+2020-11-19 09:08:03.075 +01:00 [Information] Dodano: 
+SZLAFROK DAMSKI TAYLOR SALE DONNA
+2020-11-19 09:08:03.188 +01:00 [Information] Dodano: 
+SZLAFROK DAMSKI JASMINE DONNA
+2020-11-19 09:08:03.261 +01:00 [Information] Dodano: 
+SZLAFROK DAMSKI ELENI DONNA
+2020-11-19 09:08:03.321 +01:00 [Information] Dodano: 
+SZLAFROK DAMSKI KATIE 03 DONNA
+2020-11-19 09:08:03.357 +01:00 [Information] Dodano: 
+SZLAFROK DAMSKI KATIE 01 DONNA
+2020-11-19 09:08:03.415 +01:00 [Information] Dodano: 
+SZLAFROK DAMSKI IVANA DONNA
+2020-11-19 09:08:03.721 +01:00 [Information] Dodano: 
+PENIUAR DONATELLA DONNA
+2020-11-19 09:08:03.835 +01:00 [Information] Do bazy dodano 0 oraz zaaktualizowana 1050 rekordow
