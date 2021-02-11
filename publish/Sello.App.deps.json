@@ -859,6 +859,14 @@
           }
         }
       },
+      "HtmlAgilityPack/1.11.30": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.30.0",
+            "fileVersion": "1.11.30.0"
+          }
+        }
+      },
       "linq2db/2.9.8": {
         "dependencies": {
           "System.ComponentModel.Annotations": "4.5.0",
@@ -1930,6 +1938,7 @@
       },
       "Sello.Core/1.0.0": {
         "dependencies": {
+          "HtmlAgilityPack": "1.11.30",
           "Newtonsoft.Json": "12.0.3",
           "Serilog": "2.9.0",
           "System.Drawing.Common": "4.7.0",
@@ -1959,6 +1968,13 @@
       "sha512": "sha512-aizPvwlj7TGGDKq4ukK4UGMONwVyCAywnRBgy5DUJdKCkn3BVqabr6APJQ1JaEs2NOjyBBEOnUwL5vIgqjW4dg==",
       "path": "dasmulli.win32.serviceutils/1.2.0",
       "hashPath": "dasmulli.win32.serviceutils.1.2.0.nupkg.sha512"
+    },
+    "HtmlAgilityPack/1.11.30": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IuOSVuuHCJKrnAjNe5rZnZCyR/NpXL6ExEL7UiM8h4fnhbt8tLqIKol9q5Lv0uoxWO8fl9Uq+1kpGfMDUdr5zA==",
+      "path": "htmlagilitypack/1.11.30",
+      "hashPath": "htmlagilitypack.1.11.30.nupkg.sha512"
     },
     "linq2db/2.9.8": {
       "type": "package",
