@@ -9,11 +9,13 @@
     ".NETCoreApp,Version=v3.1/win-x64": {
       "Sello.App/1.0.0": {
         "dependencies": {
+          "EasyConsole": "1.1.0",
           "PeterKottas.DotNetCore.WindowsService": "2.0.11",
           "Sello.Core": "1.0.0",
           "Serilog": "2.9.0",
           "Serilog.Sinks.Console": "3.1.1",
           "Serilog.Sinks.RollingFile": "3.3.0",
+          "Sharprompt": "2.1.2",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "3.1.2"
         },
         "runtime": {
@@ -859,6 +861,14 @@
           }
         }
       },
+      "EasyConsole/1.1.0": {
+        "runtime": {
+          "lib/net452/EasyConsole.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
       "HtmlAgilityPack/1.11.30": {
         "runtime": {
           "lib/netstandard2.0/HtmlAgilityPack.dll": {
@@ -869,7 +879,7 @@
       },
       "linq2db/2.9.8": {
         "dependencies": {
-          "System.ComponentModel.Annotations": "4.5.0",
+          "System.ComponentModel.Annotations": "4.7.0",
           "System.Data.DataSetExtensions": "4.5.0",
           "System.Data.SqlClient": "4.6.0"
         },
@@ -1225,6 +1235,17 @@
           }
         }
       },
+      "Sharprompt/2.1.2": {
+        "dependencies": {
+          "System.ComponentModel.Annotations": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Sharprompt.dll": {
+            "assemblyVersion": "2.1.2.0",
+            "fileVersion": "2.1.2.0"
+          }
+        }
+      },
       "System.AppContext/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -1261,7 +1282,7 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
-      "System.ComponentModel.Annotations/4.5.0": {},
+      "System.ComponentModel.Annotations/4.7.0": {},
       "System.Console/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -1941,6 +1962,7 @@
           "HtmlAgilityPack": "1.11.30",
           "Newtonsoft.Json": "12.0.3",
           "Serilog": "2.9.0",
+          "Sharprompt": "2.1.2",
           "System.Drawing.Common": "4.7.0",
           "linq2db": "2.9.8",
           "linq2db.SqlServer": "2.9.8"
@@ -1968,6 +1990,13 @@
       "sha512": "sha512-aizPvwlj7TGGDKq4ukK4UGMONwVyCAywnRBgy5DUJdKCkn3BVqabr6APJQ1JaEs2NOjyBBEOnUwL5vIgqjW4dg==",
       "path": "dasmulli.win32.serviceutils/1.2.0",
       "hashPath": "dasmulli.win32.serviceutils.1.2.0.nupkg.sha512"
+    },
+    "EasyConsole/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fEBI56S+m8g3VXRFHYxf9a9VUmBAkT8WZXFpRVou7cDTWmAEaloSWyXPHG7tHfUt+wkBovc9GSzZohuYdpWcsQ==",
+      "path": "easyconsole/1.1.0",
+      "hashPath": "easyconsole.1.1.0.nupkg.sha512"
     },
     "HtmlAgilityPack/1.11.30": {
       "type": "package",
@@ -2396,6 +2425,13 @@
       "path": "serilog.sinks.rollingfile/3.3.0",
       "hashPath": "serilog.sinks.rollingfile.3.3.0.nupkg.sha512"
     },
+    "Sharprompt/2.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oC+S6PRE6HKjzb4rElhR78lwnKmFu0HmGrWsSGI2PX1rV7bz58rJR70fQIA9dbfoR7hP18068fNyZCoFznyjGA==",
+      "path": "sharprompt/2.1.2",
+      "hashPath": "sharprompt.2.1.2.nupkg.sha512"
+    },
     "System.AppContext/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -2424,12 +2460,12 @@
       "path": "system.collections.concurrent/4.3.0",
       "hashPath": "system.collections.concurrent.4.3.0.nupkg.sha512"
     },
-    "System.ComponentModel.Annotations/4.5.0": {
+    "System.ComponentModel.Annotations/4.7.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-UxYQ3FGUOtzJ7LfSdnYSFd7+oEv6M8NgUatatIN2HxNtDdlcvFAf+VIq4Of9cDMJEJC0aSRv/x898RYhB4Yppg==",
-      "path": "system.componentmodel.annotations/4.5.0",
-      "hashPath": "system.componentmodel.annotations.4.5.0.nupkg.sha512"
+      "sha512": "sha512-0YFqjhp/mYkDGpU0Ye1GjE53HMp9UVfGN7seGpAMttAC0C40v5gw598jCgpbBLMmCo0E5YRLBv5Z2doypO49ZQ==",
+      "path": "system.componentmodel.annotations/4.7.0",
+      "hashPath": "system.componentmodel.annotations.4.7.0.nupkg.sha512"
     },
     "System.Console/4.3.0": {
       "type": "package",
