@@ -1,12 +1,12 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v3.1/win10-x64",
+    "name": ".NETCoreApp,Version=v3.1/win-x64",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {},
-    ".NETCoreApp,Version=v3.1/win10-x64": {
+    ".NETCoreApp,Version=v3.1/win-x64": {
       "Sello.App/1.0.0": {
         "dependencies": {
           "EasyConsole": "1.1.0",
@@ -1056,8 +1056,7 @@
       "runtime.native.System.IO.Compression/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
-          "Microsoft.NETCore.Targets": "1.1.0",
-          "runtime.win7-x64.runtime.native.System.IO.Compression": "4.3.0"
+          "Microsoft.NETCore.Targets": "1.1.0"
         }
       },
       "runtime.native.System.Net.Http/4.3.0": {
@@ -1182,8 +1181,6 @@
           "System.Private.Uri": "4.3.0"
         }
       },
-      "runtime.win7-x64.runtime.native.System.IO.Compression/4.3.0": {},
-      "runtime.win7.System.Private.Uri/4.3.0": {},
       "Serilog/2.9.0": {
         "runtime": {
           "lib/netstandard2.0/Serilog.dll": {
@@ -1568,8 +1565,7 @@
       "System.Private.Uri/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
-          "Microsoft.NETCore.Targets": "1.1.0",
-          "runtime.win7.System.Private.Uri": "4.3.0"
+          "Microsoft.NETCore.Targets": "1.1.0"
         }
       },
       "System.Reflection/4.3.0": {
@@ -2401,20 +2397,6 @@
       "path": "runtime.win.system.runtime.extensions/4.3.0",
       "hashPath": "runtime.win.system.runtime.extensions.4.3.0.nupkg.sha512"
     },
-    "runtime.win7-x64.runtime.native.System.IO.Compression/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-UamDlgSO/nIzc96M+g3wbvAGbAuXjvRYR5Ttm/FVJgt2iva8ouOqSJ0j6eGI7pZDLvD/ZISl9XRZOajE/Xvizg==",
-      "path": "runtime.win7-x64.runtime.native.system.io.compression/4.3.0",
-      "hashPath": "runtime.win7-x64.runtime.native.system.io.compression.4.3.0.nupkg.sha512"
-    },
-    "runtime.win7.System.Private.Uri/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Q+IBgaPYicSQs2tBlmXqbS25c/JLIthWrgrpMwxKSOobW/OqIMVFruUGfuaz4QABVzV8iKdCAbN7APY7Tclbnw==",
-      "path": "runtime.win7.system.private.uri/4.3.0",
-      "hashPath": "runtime.win7.system.private.uri.4.3.0.nupkg.sha512"
-    },
     "Serilog/2.9.0": {
       "type": "package",
       "serviceable": true,
@@ -2933,6 +2915,19 @@
     }
   },
   "runtimes": {
+    "win-x64": [
+      "win",
+      "any",
+      "base"
+    ],
+    "win-x64-aot": [
+      "win-aot",
+      "win-x64",
+      "win",
+      "aot",
+      "any",
+      "base"
+    ],
     "win10-x64": [
       "win10",
       "win81-x64",
@@ -2951,6 +2946,81 @@
       "win10-x64",
       "win10",
       "win81-x64-aot",
+      "win81-aot",
+      "win81-x64",
+      "win81",
+      "win8-x64-aot",
+      "win8-aot",
+      "win8-x64",
+      "win8",
+      "win7-x64-aot",
+      "win7-aot",
+      "win7-x64",
+      "win7",
+      "win-x64-aot",
+      "win-aot",
+      "win-x64",
+      "win",
+      "aot",
+      "any",
+      "base"
+    ],
+    "win7-x64": [
+      "win7",
+      "win-x64",
+      "win",
+      "any",
+      "base"
+    ],
+    "win7-x64-aot": [
+      "win7-aot",
+      "win7-x64",
+      "win7",
+      "win-x64-aot",
+      "win-aot",
+      "win-x64",
+      "win",
+      "aot",
+      "any",
+      "base"
+    ],
+    "win8-x64": [
+      "win8",
+      "win7-x64",
+      "win7",
+      "win-x64",
+      "win",
+      "any",
+      "base"
+    ],
+    "win8-x64-aot": [
+      "win8-aot",
+      "win8-x64",
+      "win8",
+      "win7-x64-aot",
+      "win7-aot",
+      "win7-x64",
+      "win7",
+      "win-x64-aot",
+      "win-aot",
+      "win-x64",
+      "win",
+      "aot",
+      "any",
+      "base"
+    ],
+    "win81-x64": [
+      "win81",
+      "win8-x64",
+      "win8",
+      "win7-x64",
+      "win7",
+      "win-x64",
+      "win",
+      "any",
+      "base"
+    ],
+    "win81-x64-aot": [
       "win81-aot",
       "win81-x64",
       "win81",
