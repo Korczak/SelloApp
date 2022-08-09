@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<offers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
+  <group name="other">
+    <o id="4684" url="https://www.wega.wroc.pl/produkty/4684-biustonosz-kassidy-julietta.html" price="49.90" gross_price="61.38" symbol="143904" is_new="false" is_promotion="false" pcs_in_a_box="1">
+      <cat id="71" ids="1,7,71"><![CDATA[Bielizna damska/biustonosze/push - up]]></cat>
+      <name><![CDATA[BIUSTONOSZ KASSIDY/JULIETTA]]></name>
+      <desc><![CDATA[Klasyczny biustonosz z gładkimi miseczkami typu push-up. Miseczki wzmocnione są fiszbinami. Istnieje możliwość wyjęcia wkładek. Model posiada odpinane ramiączka oraz ozdobne koronkowe wstawki.
+
+
+]]></desc>
+      <material><![CDATA[Skład: 84% poliamid, 16% elastan]]></material>
+      <imgs>
+        <main url="https://www.wega.wroc.pl/upl/app/products/1993323-orgin.jpg"/>
+      </imgs>
+      <manufacturer id="46001"><![CDATA[ESOTIQ & HENDERSON]]></manufacturer>
+      <manufacturer-image>https://www.wega.wroc.pl/upl/app/partners/images/30-orgin.png</manufacturer-image>
+      <attributes>
+        <attribute size="65C" color="biały" available="0" id="0df8720d4607ec685554103211e889cb">
+          <ean value="5900050060076"/>
+          <i url="https://www.wega.wroc.pl/upl/app/products/1993320-orgin.jpg"/>
+        </attribute>
+      </attributes>
+    </o>
+	</group>
+</offers>
