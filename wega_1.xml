@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <offers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1">
   <group name="other">
     <o id="4684" url="https://www.wega.wroc.pl/produkty/4684-biustonosz-kassidy-julietta.html" price="49.90" gross_price="61.38" symbol="143904" is_new="false" is_promotion="false" pcs_in_a_box="1">
@@ -10,7 +10,7 @@
 ]]></desc>
       <material><![CDATA[Skład: 84% poliamid, 16% elastan]]></material>
       <imgs>
-        <main url="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2019%2F09%2F920383-england-roads-london-clouds-street-motion-big-ben-street-lights-cities.jpg&f=1&nofb=1"/>
+        <main url="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.johnharveyphoto.com%2FNewZealand%2FLargePlainHg.jpg"/>
       </imgs>
       <manufacturer id="46001"><![CDATA[ESOTIQ & HENDERSON]]></manufacturer>
       <manufacturer-image>https://www.wega.wroc.pl/upl/app/partners/images/30-orgin.png</manufacturer-image>
@@ -21,5 +21,5 @@
         </attribute>
       </attributes>
     </o>
-	</group>
+  </group>
 </offers>
