@@ -2218,7 +2218,10 @@
           "linq2db.SqlServer": "2.9.8"
         },
         "runtime": {
-          "Sello.Core.dll": {}
+          "Sello.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
